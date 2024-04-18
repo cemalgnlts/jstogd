@@ -1,0 +1,17 @@
+{
+  "name": "jstogd",
+  "version": "1.0.0",
+  "description": "Compile JavaScript to GDScript for Godot.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "serve": "python3 -m http.server --directory dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^8.11.3",
+    "esbuild": "^0.20.2"
+  }
+}

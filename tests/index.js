@@ -1,0 +1,9 @@
+import "./variables.js";
+import "./expressions.js";
+import "./conditions.js";
+import "./loops.js";
+import "./objects.js";
+import "./classes.js";
+import "./functions.js";
+import "./misc.js";
+import "./common.js";
